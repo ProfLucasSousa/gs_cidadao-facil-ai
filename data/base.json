@@ -1,0 +1,258 @@
+[
+    {
+        "id": "DOC001",
+        "tema": "Documentos",
+        "pergunta": "Como emitir a Carteira de Identidade Nacional?",
+        "palavras_chave": [
+            "identidade",
+            "cin",
+            "rg",
+            "tirar identidade"
+        ],
+        "orientacao": "Consulte o órgão de identificação do seu estado ou do Distrito Federal para verificar como solicitar a Carteira de Identidade Nacional, os documentos necessários e a disponibilidade de agendamento.",
+        "fonte": "https://www.gov.br/pt-br",
+        "data_verificacao": "PENDENTE",
+        "relacionados": [
+            "DOC002",
+            "DOC003"
+        ]
+    },
+    {
+        "id": "DOC002",
+        "tema": "Documentos",
+        "pergunta": "Como consultar a situação cadastral do CPF?",
+        "palavras_chave": [
+            "cpf",
+            "consultar cpf",
+            "situacao cadastral"
+        ],
+        "orientacao": "A Receita Federal disponibiliza serviços para consultar a situação cadastral do CPF. Utilize o portal oficial para verificar os procedimentos.",
+        "fonte": "https://www.gov.br/receitafederal/pt-br",
+        "data_verificacao": "PENDENTE",
+        "relacionados": [
+            "DOC001",
+            "DOC004"
+        ]
+    },
+    {
+        "id": "DOC003",
+        "tema": "Documentos",
+        "pergunta": "Como tirar o título de eleitor?",
+        "palavras_chave": [
+            "titulo eleitor",
+            "titulo eleitoral",
+            "eleitor"
+        ],
+        "orientacao": "Consulte o Tribunal Superior Eleitoral para verificar os serviços eleitorais disponíveis, requisitos e prazos para solicitar o primeiro título.",
+        "fonte": "https://www.tse.jus.br/",
+        "data_verificacao": "PENDENTE",
+        "relacionados": [
+            "DOC001",
+            "DOC002"
+        ]
+    },
+    {
+        "id": "DOC004",
+        "tema": "Documentos",
+        "pergunta": "Como acessar a Carteira de Trabalho Digital?",
+        "palavras_chave": [
+            "carteira trabalho digital",
+            "ctps",
+            "trabalho"
+        ],
+        "orientacao": "Consulte os canais oficiais do Ministério do Trabalho e Emprego para saber como acessar a Carteira de Trabalho Digital e seus registros.",
+        "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br",
+        "data_verificacao": "PENDENTE",
+        "relacionados": [
+            "DOC002",
+            "DOC005"
+        ]
+    },
+    {
+        "id": "DOC005",
+        "tema": "Documentos",
+        "pergunta": "Como solicitar uma segunda via de certidão?",
+        "palavras_chave": [
+            "segunda via certidao",
+            "certidao",
+            "registro civil"
+        ],
+        "orientacao": "Verifique com o cartório de registro civil responsável ou com os canais oficiais de registro civil as opções para solicitar uma segunda via da certidão.",
+        "fonte": "https://www.cnj.jus.br/",
+        "data_verificacao": "PENDENTE",
+        "relacionados": [
+            "DOC001",
+            "DOC004"
+        ]
+    },
+    {
+        "id": "SAU001",
+        "tema": "Saúde",
+        "pergunta": "Como encontrar uma Unidade Básica de Saúde?",
+        "palavras_chave": [
+            "ubs",
+            "posto saude",
+            "unidade basica"
+        ],
+        "orientacao": "Consulte a Secretaria Municipal de Saúde para localizar a Unidade Básica de Saúde de referência e confirmar horários e serviços disponíveis.",
+        "fonte": "https://www.gov.br/saude/pt-br",
+        "data_verificacao": "PENDENTE",
+        "relacionados": [
+            "SAU002",
+            "SAU004"
+        ]
+    },
+    {
+        "id": "SAU002",
+        "tema": "Saúde",
+        "pergunta": "Como consultar informações do Cartão Nacional de Saúde?",
+        "palavras_chave": [
+            "cartao sus",
+            "cartao nacional saude",
+            "cns"
+        ],
+        "orientacao": "Consulte os canais oficiais do SUS para verificar as opções disponíveis de acesso às informações do Cartão Nacional de Saúde.",
+        "fonte": "https://www.gov.br/saude/pt-br",
+        "data_verificacao": "PENDENTE",
+        "relacionados": [
+            "SAU001",
+            "SAU003"
+        ]
+    },
+    {
+        "id": "SAU003",
+        "tema": "Saúde",
+        "pergunta": "Como consultar meu histórico de vacinação?",
+        "palavras_chave": [
+            "vacinas",
+            "vacinacao",
+            "historico vacinacao"
+        ],
+        "orientacao": "Verifique os canais digitais oficiais de saúde e a unidade de saúde responsável para consultar registros de vacinação disponíveis.",
+        "fonte": "https://www.gov.br/saude/pt-br",
+        "data_verificacao": "PENDENTE",
+        "relacionados": [
+            "SAU002",
+            "SAU001"
+        ]
+    },
+    {
+        "id": "SAU004",
+        "tema": "Saúde",
+        "pergunta": "Como agendar uma consulta na rede pública de saúde?",
+        "palavras_chave": [
+            "agendar consulta",
+            "consulta medica",
+            "atendimento saude"
+        ],
+        "orientacao": "Procure a rede municipal de saúde para conhecer os procedimentos locais de agendamento de consultas na atenção básica.",
+        "fonte": "https://www.gov.br/saude/pt-br",
+        "data_verificacao": "PENDENTE",
+        "relacionados": [
+            "SAU001",
+            "SAU005"
+        ]
+    },
+    {
+        "id": "SAU005",
+        "tema": "Saúde",
+        "pergunta": "Onde buscar atendimento de urgência?",
+        "palavras_chave": [
+            "urgencia",
+            "emergencia medica",
+            "upa"
+        ],
+        "orientacao": "Em situações de urgência, procure os serviços de atendimento apropriados da rede de saúde. O SAMU pode ser acionado pelo número 192 em emergências atendidas pelo serviço.",
+        "fonte": "https://www.gov.br/saude/pt-br",
+        "data_verificacao": "PENDENTE",
+        "relacionados": [
+            "SAU001",
+            "SAU004"
+        ]
+    },
+    {
+        "id": "BEN001",
+        "tema": "Benefícios",
+        "pergunta": "Como fazer o Cadastro Único?",
+        "palavras_chave": [
+            "cadastro unico",
+            "cadunico",
+            "inscricao social"
+        ],
+        "orientacao": "Procure o atendimento responsável pelo Cadastro Único no município para consultar os critérios e procedimentos de inscrição e atualização cadastral.",
+        "fonte": "https://www.gov.br/mds/pt-br",
+        "data_verificacao": "PENDENTE",
+        "relacionados": [
+            "BEN002",
+            "BEN003"
+        ]
+    },
+    {
+        "id": "BEN002",
+        "tema": "Benefícios",
+        "pergunta": "Como encontrar um CRAS?",
+        "palavras_chave": [
+            "cras",
+            "centro referencia assistencia social",
+            "assistencia social"
+        ],
+        "orientacao": "Consulte a prefeitura ou a rede municipal de assistência social para localizar o Centro de Referência de Assistência Social mais adequado à sua região.",
+        "fonte": "https://www.gov.br/mds/pt-br",
+        "data_verificacao": "PENDENTE",
+        "relacionados": [
+            "BEN001",
+            "BEN004"
+        ]
+    },
+    {
+        "id": "BEN003",
+        "tema": "Benefícios",
+        "pergunta": "Como consultar informações sobre o Bolsa Família?",
+        "palavras_chave": [
+            "bolsa familia",
+            "beneficio familia",
+            "programa bolsa"
+        ],
+        "orientacao": "Consulte os canais oficiais do Ministério do Desenvolvimento e Assistência Social para verificar critérios, informações e orientações do Bolsa Família.",
+        "fonte": "https://www.gov.br/mds/pt-br",
+        "data_verificacao": "PENDENTE",
+        "relacionados": [
+            "BEN001",
+            "BEN002"
+        ]
+    },
+    {
+        "id": "BEN004",
+        "tema": "Benefícios",
+        "pergunta": "Onde consultar informações sobre o BPC?",
+        "palavras_chave": [
+            "bpc",
+            "beneficio prestacao continuada",
+            "loas"
+        ],
+        "orientacao": "Consulte os canais oficiais do INSS e da assistência social para conhecer os critérios e procedimentos relacionados ao Benefício de Prestação Continuada.",
+        "fonte": "https://www.gov.br/inss/pt-br",
+        "data_verificacao": "PENDENTE",
+        "relacionados": [
+            "BEN001",
+            "BEN002"
+        ]
+    },
+    {
+        "id": "BEN005",
+        "tema": "Benefícios",
+        "pergunta": "Como consultar a Tarifa Social de Energia Elétrica?",
+        "palavras_chave": [
+            "tarifa social",
+            "desconto energia",
+            "energia eletrica"
+        ],
+        "orientacao": "Consulte a ANEEL e a distribuidora de energia da sua região para verificar as regras atuais da Tarifa Social de Energia Elétrica.",
+        "fonte": "https://www.gov.br/aneel/pt-br",
+        "data_verificacao": "PENDENTE",
+        "relacionados": [
+            "BEN001",
+            "BEN003"
+        ]
+    }
+]
