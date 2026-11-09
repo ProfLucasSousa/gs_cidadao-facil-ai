@@ -1,1 +1,2 @@
-LINK_DO_VIDEO_NO_YOUTUBE
+Vídeo ainda não publicado no YouTube. 
+Após publicar como Não Listado, substituir este texto pelo link real e atualizar o README.
