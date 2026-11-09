@@ -9,9 +9,9 @@
             "rg",
             "tirar identidade"
         ],
-        "orientacao": "Consulte o órgão de identificação do seu estado ou do Distrito Federal para verificar como solicitar a Carteira de Identidade Nacional, os documentos necessários e a disponibilidade de agendamento.",
-        "fonte": "https://www.gov.br/pt-br",
-        "data_verificacao": "PENDENTE",
+        "orientacao": "Consulte a lista de institutos de identificação dos estados e do Distrito Federal na página oficial da CIN. Confira no órgão do seu estado o agendamento e os documentos exigidos para a emissão.",
+        "fonte": "https://www.gov.br/governodigital/pt-br/identidade/identificacao-do-cidadao-e-carteira-de-identidade-nacional/duvidas-frequentes-sobre-a-cin-campanha",
+        "data_verificacao": "2026-11-09",
         "relacionados": [
             "DOC002",
             "DOC003"
@@ -26,9 +26,9 @@
             "consultar cpf",
             "situacao cadastral"
         ],
-        "orientacao": "A Receita Federal disponibiliza serviços para consultar a situação cadastral do CPF. Utilize o portal oficial para verificar os procedimentos.",
-        "fonte": "https://www.gov.br/receitafederal/pt-br",
-        "data_verificacao": "PENDENTE",
+        "orientacao": "Acesse o serviço de Comprovante de Situação Cadastral no CPF da Receita Federal. Informe os dados solicitados somente no site oficial. O comprovante informa a situação cadastral e não comprova a situação financeira ou fiscal da pessoa.",
+        "fonte": "https://solucoes.receita.fazenda.gov.br/Servicos/cpf/ConsultaSituacao/ConsultaPublica.asp",
+        "data_verificacao": "2026-11-09",
         "relacionados": [
             "DOC001",
             "DOC004"
@@ -43,9 +43,9 @@
             "titulo eleitoral",
             "eleitor"
         ],
-        "orientacao": "Consulte o Tribunal Superior Eleitoral para verificar os serviços eleitorais disponíveis, requisitos e prazos para solicitar o primeiro título.",
-        "fonte": "https://www.tse.jus.br/",
-        "data_verificacao": "PENDENTE",
+        "orientacao": "Consulte o Autoatendimento Eleitoral do TSE para solicitar o primeiro título e verificar a documentação. Confirme a disponibilidade do serviço, os prazos eleitorais e eventuais etapas presenciais com a zona eleitoral.",
+        "fonte": "https://www.tse.jus.br/servicos-eleitorais/titulo-eleitoral/autoatendimento-eleitoral",
+        "data_verificacao": "2026-11-09",
         "relacionados": [
             "DOC001",
             "DOC002"
@@ -60,9 +60,9 @@
             "ctps",
             "trabalho"
         ],
-        "orientacao": "Consulte os canais oficiais do Ministério do Trabalho e Emprego para saber como acessar a Carteira de Trabalho Digital e seus registros.",
-        "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br",
-        "data_verificacao": "PENDENTE",
+        "orientacao": "A Carteira de Trabalho Digital pode ser acessada pelo aplicativo ou pela versão web indicada pelo Ministério do Trabalho e Emprego, com autenticação na conta gov.br do próprio interessado. Confira as orientações e os canais de suporte na página oficial.",
+        "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/servicos/trabalhador/carteira-de-trabalho/perguntas-frequentes-carteira-de-trabalho-digital",
+        "data_verificacao": "2026-11-09",
         "relacionados": [
             "DOC002",
             "DOC005"
@@ -77,9 +77,9 @@
             "certidao",
             "registro civil"
         ],
-        "orientacao": "Verifique com o cartório de registro civil responsável ou com os canais oficiais de registro civil as opções para solicitar uma segunda via da certidão.",
-        "fonte": "https://www.cnj.jus.br/",
-        "data_verificacao": "PENDENTE",
+        "orientacao": "Para obter segunda via de certidão de nascimento ou de óbito, consulte o cartório responsável ou o Portal do Registro Civil indicado pelo CNJ. Confira os dados necessários, os valores e as formas de entrega antes de solicitar.",
+        "fonte": "https://www.cnj.jus.br/2a-via-de-certidoes-de-nascimento-e-de-obito-podem-ser-solicitadas-via-internet/",
+        "data_verificacao": "2026-11-09",
         "relacionados": [
             "DOC001",
             "DOC004"
@@ -94,9 +94,9 @@
             "posto saude",
             "unidade basica"
         ],
-        "orientacao": "Consulte a Secretaria Municipal de Saúde para localizar a Unidade Básica de Saúde de referência e confirmar horários e serviços disponíveis.",
-        "fonte": "https://www.gov.br/saude/pt-br",
-        "data_verificacao": "PENDENTE",
+        "orientacao": "Procure a Secretaria Municipal de Saúde para localizar a UBS de referência e confirmar os serviços e horários locais. A página de referência descreve as UBS da cidade de São Paulo; em outros municípios, confirme os canais da prefeitura local.",
+        "fonte": "https://prefeitura.sp.gov.br/web/saude/w/unidades-basicas-de-saude-ubs",
+        "data_verificacao": "2026-11-09",
         "relacionados": [
             "SAU002",
             "SAU004"
@@ -111,9 +111,9 @@
             "cartao nacional saude",
             "cns"
         ],
-        "orientacao": "Consulte os canais oficiais do SUS para verificar as opções disponíveis de acesso às informações do Cartão Nacional de Saúde.",
-        "fonte": "https://www.gov.br/saude/pt-br",
-        "data_verificacao": "PENDENTE",
+        "orientacao": "No Meu SUS Digital, acesse Perfil e selecione o ícone do cartão para consultar as informações do Cartão Nacional de Saúde. Ao virar o cartão na tela, é possível visualizar o número do CNS e o QR Code de identificação.",
+        "fonte": "https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital/perguntas-e-respostas/cidadao/10-onde-encontro-o-numero",
+        "data_verificacao": "2026-11-09",
         "relacionados": [
             "SAU001",
             "SAU003"
@@ -128,9 +128,9 @@
             "vacinacao",
             "historico vacinacao"
         ],
-        "orientacao": "Verifique os canais digitais oficiais de saúde e a unidade de saúde responsável para consultar registros de vacinação disponíveis.",
-        "fonte": "https://www.gov.br/saude/pt-br",
-        "data_verificacao": "PENDENTE",
+        "orientacao": "Acesse o Meu SUS Digital com sua conta gov.br e consulte a área de vacinas. Os registros dependem do envio pelos serviços de saúde. Se uma dose não aparecer ou estiver incorreta, procure a unidade onde ela foi aplicada ou a Secretaria Municipal de Saúde.",
+        "fonte": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/outubro/quer-consultar-suas-vacinas-saiba-como-acessar-a-carteira-de-vacinacao-pelo-meu-sus-digital/",
+        "data_verificacao": "2026-11-09",
         "relacionados": [
             "SAU002",
             "SAU001"
@@ -145,9 +145,9 @@
             "consulta medica",
             "atendimento saude"
         ],
-        "orientacao": "Procure a rede municipal de saúde para conhecer os procedimentos locais de agendamento de consultas na atenção básica.",
-        "fonte": "https://www.gov.br/saude/pt-br",
-        "data_verificacao": "PENDENTE",
+        "orientacao": "Procure sua UBS ou a Secretaria Municipal de Saúde para confirmar como agendar uma consulta na atenção básica. A fonte apresenta serviços e consultas das UBS de São Paulo; os procedimentos e a disponibilidade variam conforme o município.",
+        "fonte": "https://prefeitura.sp.gov.br/web/saude/w/unidades-basicas-de-saude-ubs",
+        "data_verificacao": "2026-11-09",
         "relacionados": [
             "SAU001",
             "SAU005"
@@ -162,9 +162,9 @@
             "emergencia medica",
             "upa"
         ],
-        "orientacao": "Em situações de urgência, procure os serviços de atendimento apropriados da rede de saúde. O SAMU pode ser acionado pelo número 192 em emergências atendidas pelo serviço.",
-        "fonte": "https://www.gov.br/saude/pt-br",
-        "data_verificacao": "PENDENTE",
+        "orientacao": "Em uma emergência de saúde, ligue 192 para o SAMU e siga as orientações da equipe de regulação. O serviço avalia a situação e orienta o atendimento, com envio de equipe quando necessário. Este assistente não avalia sintomas nem substitui atendimento de emergência.",
+        "fonte": "https://www.gov.br/saude/pt-br/composicao/saes/samu-192",
+        "data_verificacao": "2026-11-09",
         "relacionados": [
             "SAU001",
             "SAU004"
@@ -179,9 +179,9 @@
             "cadunico",
             "inscricao social"
         ],
-        "orientacao": "Procure o atendimento responsável pelo Cadastro Único no município para consultar os critérios e procedimentos de inscrição e atualização cadastral.",
-        "fonte": "https://www.gov.br/mds/pt-br",
-        "data_verificacao": "PENDENTE",
+        "orientacao": "Procure o posto do Cadastro Único no município para consultar os critérios, os documentos e o atendimento de inscrição ou atualização. Se não souber onde ir, busque orientação no CRAS ou no setor responsável pelo Bolsa Família.",
+        "fonte": "https://www.gov.br/pt-br/servicos/inscrever-se-no-cadastro-unico-para-programas-sociais-do-governo-federal",
+        "data_verificacao": "2026-11-09",
         "relacionados": [
             "BEN002",
             "BEN003"
@@ -196,9 +196,9 @@
             "centro referencia assistencia social",
             "assistencia social"
         ],
-        "orientacao": "Consulte a prefeitura ou a rede municipal de assistência social para localizar o Centro de Referência de Assistência Social mais adequado à sua região.",
-        "fonte": "https://www.gov.br/mds/pt-br",
-        "data_verificacao": "PENDENTE",
+        "orientacao": "Consulte a prefeitura ou o localizador indicado na página oficial do serviço para encontrar o CRAS mais próximo. Confirme com a unidade os horários, a necessidade de agendamento e as formas de atendimento.",
+        "fonte": "https://www.gov.br/pt-br/servicos/acessar-o-cras-centro-de-referencia-da-assistencia-social",
+        "data_verificacao": "2026-11-09",
         "relacionados": [
             "BEN001",
             "BEN004"
@@ -213,9 +213,9 @@
             "beneficio familia",
             "programa bolsa"
         ],
-        "orientacao": "Consulte os canais oficiais do Ministério do Desenvolvimento e Assistência Social para verificar critérios, informações e orientações do Bolsa Família.",
-        "fonte": "https://www.gov.br/mds/pt-br",
-        "data_verificacao": "PENDENTE",
+        "orientacao": "Consulte a página oficial do Bolsa Família para conhecer os critérios e as etapas do programa. Mantenha o Cadastro Único atualizado e procure o CRAS ou o setor municipal responsável para orientações. Este assistente não confirma elegibilidade nem garante a concessão do benefício.",
+        "fonte": "https://www.gov.br/pt-br/servicos/receber-o-bolsa-familia",
+        "data_verificacao": "2026-11-09",
         "relacionados": [
             "BEN001",
             "BEN002"
@@ -230,9 +230,9 @@
             "beneficio prestacao continuada",
             "loas"
         ],
-        "orientacao": "Consulte os canais oficiais do INSS e da assistência social para conhecer os critérios e procedimentos relacionados ao Benefício de Prestação Continuada.",
-        "fonte": "https://www.gov.br/inss/pt-br",
-        "data_verificacao": "PENDENTE",
+        "orientacao": "Consulte os canais oficiais do INSS para conhecer os critérios e o pedido do BPC. O CRAS pode orientar sobre o Cadastro Único e o acesso ao benefício. A concessão depende de análise oficial; este assistente não confirma o direito ao pagamento.",
+        "fonte": "https://www.gov.br/inss/pt-br/noticias/como-pedir-beneficio-de-prestacao-continuada-bpc",
+        "data_verificacao": "2026-11-09",
         "relacionados": [
             "BEN001",
             "BEN002"
@@ -247,9 +247,9 @@
             "desconto energia",
             "energia eletrica"
         ],
-        "orientacao": "Consulte a ANEEL e a distribuidora de energia da sua região para verificar as regras atuais da Tarifa Social de Energia Elétrica.",
-        "fonte": "https://www.gov.br/aneel/pt-br",
-        "data_verificacao": "PENDENTE",
+        "orientacao": "Consulte a página da ANEEL sobre a Tarifa Social e a distribuidora de energia para verificar os critérios e a aplicação do benefício. As regras diferenciam a energia consumida de outras cobranças da fatura; confirme os detalhes nos canais oficiais.",
+        "fonte": "https://www.gov.br/aneel/pt-br/assuntos/tarifas/tarifa-social",
+        "data_verificacao": "2026-11-09",
         "relacionados": [
             "BEN001",
             "BEN003"
