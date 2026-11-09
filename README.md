@@ -9,6 +9,11 @@ Global Solution 2026.2 — FIAP | CitizenTech — Citizen Assist AI
 | Lucas Sousa | 573029 |
 | Dayse Borges de Sousa | 573036 |
 
+## Vídeo e repositório
+
+- [Vídeo de apresentação no YouTube](https://youtu.be/4-hekDBazhM).
+- [Repositório do projeto no GitHub](https://github.com/ProfLucasSousa/gs_cidadao-facil-ai).
+
 ## Problema e público beneficiado
 
 Informações sobre serviços públicos estão distribuídas em diferentes canais e podem ser difíceis de compreender. Este protótipo organiza orientações introdutórias para cidadãos que buscam documentos, serviços de saúde e benefícios sociais, inclusive pessoas com pouca familiaridade digital.
@@ -42,7 +47,7 @@ src/sistema.py              Assistente e procedimentos de avaliação
 data/base.json              Base com 15 orientações e fontes
 docs/relatorio.pdf          Relatório, fontes, testes e roteiro de tarefas
 docs/uso_ia.md              Registro de uso de IA e validação crítica
-docs/link_video.txt         Situação do vídeo; substituir pelo link após publicação
+docs/link_video.txt         Endereço completo do vídeo de apresentação
 ```
 
 Os registros de avaliação e a conferência documental das fontes foram incorporados ao relatório PDF e às evidências detalhadas deste README.
